@@ -35,7 +35,7 @@ STEP-5: Display the obtained cipher text.
 
 
 Program:
-
+```
 #include<stdio.h>
 #include<conio.h>
 #include<string.h>
@@ -80,7 +80,7 @@ int main()
     getch();
     return 0;
 }
-
+```
 
 
 Output:
